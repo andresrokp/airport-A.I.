@@ -1,0 +1,64 @@
+{
+    "disabledMenuItems": [
+      "login_white_labeling",
+      "asset_groups",
+      "edge_groups",
+      "dashboard_groups",
+      "scheduler",
+      "audit_log",
+      "customer_groups",
+      "roles",
+      "customers_hierarchy",
+      "rule_chains",
+      "converters",
+      "notifications_center",
+      "integrations",
+      "entity_view_groups",
+      "white_labeling",
+      "mail_server",
+      "mail_templates",
+      "custom_translation",
+      "self_registration",
+      "settings",
+      "settings_applications",
+      "custom_menu",
+      "home_settings",
+      "customers",
+      "edges",
+      "dashboards",
+      "entities",
+      "users"
+    ],
+    "menuItems": [
+      {
+        "name": "Modelo de Lenguaje GPT",
+        "iconUrl": null,
+        "materialIcon": "interpreter_mode",
+        "iframeUrl": null,
+        "dashboardId": "c3bfa6a0-8e02-11ee-9b0b-51a9a928a995",
+        "hideDashboardToolbar": true,
+        "setAccessToken": false,
+        "childMenuItems": []
+      },
+      {
+        "name": "Visión Computacional",
+        "iconUrl": null,
+        "materialIcon": "preview",
+        "iframeUrl": null,
+        "dashboardId": "d891f3e0-572e-11ee-9a5a-27a2b74c1c5f",
+        "hideDashboardToolbar": true,
+        "setAccessToken": false,
+        "childMenuItems": []
+      },
+      {
+        "name": "Funcionalidad X",
+        "iconUrl": null,
+        "materialIcon": "nature",
+        "iframeUrl": null,
+        "dashboardId": "",
+        "hideDashboardToolbar": false,
+        "setAccessToken": false,
+        "childMenuItems": []
+      }
+    ]
+  }
